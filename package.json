@@ -1,0 +1,23 @@
+{
+  "name": "discord-sl-chat-relay-setup-script",
+  "version": "1.0.0",
+  "description": "Setup script for Discord and Second Life chat relay configuration",
+  "main": "setup.js",
+  "scripts": {
+    "start": "node setup.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "secondlife",
+    "chat",
+    "relay",
+    "setup"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "enquirer": "^2.4.1",
+    "signale": "^1.4.0"
+  }
+}
